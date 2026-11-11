@@ -1,10 +1,7 @@
 # Flawless-SMP-bot
 The bot that Notalyi creator used. MAY HAVE BUGS STILL IN DEVELOPMENT
 ----------------------------------
-All license goes to Itzrealviktor
-if your going to use it video,short (or any social media)
-Put in description "Bots by Itzrealviktor (https://github.com/Itzrealviktor)"
-DO NOT SELL THIS CODE.
+PLEASE CHECK LICENSE file
 ------------------------------------
 
 Bot version 1.21.11
